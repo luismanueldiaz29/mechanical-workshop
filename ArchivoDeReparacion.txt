@@ -1,0 +1,4 @@
+luis;1003;2881;2881;Motocicleta;150000.0;null
+luis;1003;2881;2881;Motocicleta;30000.0;null
+luis;1003;2881;2881;Motocicleta;24000.0;null
+luis;1003;2881;2881;Motocicleta;24000.0;null

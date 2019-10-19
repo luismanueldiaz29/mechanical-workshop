@@ -1,0 +1,10 @@
+luis;1899192892;1028912;1028912;Motocicleta;NO
+luis;1899192892;1212;1212;Motocicleta;NO
+luis;1003;2881;2881;Motocicleta;NO
+qwwqqw;10032;123112;123112;Automovil;NO
+luis;1899192892;2112;2112;Motocicleta;NO
+qwwqqw;10032;1222;1222;Furgoneta;NO
+luis;12322;12;12;Furgoneta;NO
+luis;1899192892;14;qwq;Furgoneta;NO
+luis;1003;18;wqq;Furgoneta;NO
+luis;1899192892;11221;ererr;Furgoneta;NO
